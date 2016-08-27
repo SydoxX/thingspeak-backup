@@ -1,0 +1,2 @@
+HTTP_ADDRESS="http://example.com/"
+BAK_FREQUENCY="@daily"
